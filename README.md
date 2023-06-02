@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 実践入門ユーザー認証　試して学ぶパスワードレス
 	- インプレス NextPublishing
 	- https://nextpublishing.jp/book/16438.html
+	- ISBN：9784295601616
 
 ### 技術同人誌
 
