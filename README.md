@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 - Serverless Frontend Meetup #3 「認証・認可」
 	- https://serverless-frontend.connpass.com/event/285214/
+	- 登壇資料
+		- https://speakerdeck.com/peridotan/pasuwadoresuren-zheng-ru-men-bian
 
 ## JNSA 標準化部会 デジタルアイデンティティWG
 
