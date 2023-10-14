@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 	- 書籍「実践入門ユーザー認証　試して学ぶパスワードレス」と内容は同一
 - Git for Windows + Re:VIEWで電子書籍を作ろう
 	- https://techbookfest.org/product/tY1jwwmnCZE8EXnFMveF1q?productVariantID=atGAd1rsYbDQSBzncG5XWr
+	- 書籍「Git for Windows + Re:VIEWで電子書籍を作ろう」と内容は同一
 ## セミナー登壇
 - Serverless Frontend Meetup #3 「認証・認可」
 	- https://serverless-frontend.connpass.com/event/285214/
