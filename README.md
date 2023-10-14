@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 	- インプレス NextPublishing
 	- https://nextpublishing.jp/book/16438.html
 	- ISBN：9784295601616
+ - Git for Windows + Re:VIEWで電子書籍を作ろう
+	- インプレス NextPublishing
+	- https://nextpublishing.jp/book/17098.html
+ 	- ISBN：9784295602132
 ### 技術同人誌
 - ユーザー認証　概括的に学ぶ、クラウドサービス時代のユーザー認証
 	- https://techbookfest.org/product/nrPaBHixebigViPh8AYQk8?productVariantID=qMZRgFx6Ek0kNSdzp93MNH
