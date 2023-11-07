@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 業務経歴
 ## 専門領域
 - Digital Identity（ID管理、シングルサインオン（SSO）、認証基盤、多要素認証（MFA）、パスワードレス、IDaaS、特権ID管理）
@@ -52,6 +53,8 @@ Here are some ideas to get you started:
 - Git for Windows + Re:VIEWで電子書籍を作ろう
 	- https://techbookfest.org/product/tY1jwwmnCZE8EXnFMveF1q?productVariantID=atGAd1rsYbDQSBzncG5XWr
 	- 書籍「Git for Windows + Re:VIEWで電子書籍を作ろう」と内容は同一
+ - パスワードレス認証～Passkeys （パスキー）は我々の救世主なのか～
+	- https://techbookfest.org/product/7R2pGmYpS0Rb0MURNjFXN5	
 ## セミナー登壇
 - Serverless Frontend Meetup #3 「認証・認可」
 	- https://serverless-frontend.connpass.com/event/285214/
