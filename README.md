@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 ### 技術同人誌
 - ユーザー認証　概括的に学ぶ、クラウドサービス時代のユーザー認証
 	- https://techbookfest.org/product/nrPaBHixebigViPh8AYQk8
-	- 書籍「実践入門ユーザー認証　試して学ぶパスワードレス」と内容は同一
+	- 書籍「実践入門ユーザー認証　試して学ぶパスワードレス」の底本
 - Git for Windows + Re:VIEWで電子書籍を作ろう
 	- https://techbookfest.org/product/tY1jwwmnCZE8EXnFMveF1q
-	- 書籍「Git for Windows + Re:VIEWで電子書籍を作ろう」と内容は同一
+	- 書籍「Git for Windows + Re:VIEWで電子書籍を作ろう」の底本
  - パスワードレス認証～Passkeys （パスキー）は我々の救世主なのか～
 	- https://techbookfest.org/product/7R2pGmYpS0Rb0MURNjFXN5	
 ## セミナー登壇
