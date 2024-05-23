@@ -54,7 +54,13 @@ Here are some ideas to get you started:
 	- https://techbookfest.org/product/tY1jwwmnCZE8EXnFMveF1q
 	- 書籍「Git for Windows + Re:VIEWで電子書籍を作ろう」の底本
  - パスワードレス認証～Passkeys （パスキー）は我々の救世主なのか～
-	- https://techbookfest.org/product/7R2pGmYpS0Rb0MURNjFXN5	
+	- https://techbookfest.org/product/7R2pGmYpS0Rb0MURNjFXN5
+ - 生成AIで絵本を作ろう　ChatGPT Plus/Midjourneyで始めるクリエーター生活
+	- https://techbookfest.org/product/s27ix2qiW1iZvFmZtsGsRh
+
+### 絵本
+- エリオットとケイシー: 乾きの村を救え
+	- https://www.amazon.co.jp/%E3%82%A8%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88%E3%81%A8%E3%82%B1%E3%82%A4%E3%82%B7%E3%83%BC-%E4%B9%BE%E3%81%8D%E3%81%AE%E6%9D%91%E3%82%92%E6%95%91%E3%81%88-%E6%A9%84%E6%AC%96%E7%9F%B3%E5%BA%B5-ebook/dp/B0CXPZY6Q3/ref=sr_1_1
 ## セミナー登壇
 - Serverless Frontend Meetup #3 「認証・認可」
 	- https://serverless-frontend.connpass.com/event/285214/
