@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 ## JNSA 標準化部会 デジタルアイデンティティWG
 - 【改定新版】特権ID管理ガイドライン　解説編
 	- https://www.jnsa.org/result/digitalidentity/2022/index.html
+- 【改定新版】特権ID管理ガイドライン　解説編／実践編
+	- https://www.jnsa.org/result/digitalidentity/2024/index.html	
 - ニュージーランド政府による"Identification Management Standards"に関する考察
 ==NIST SP800-63 "Digital Identity Guidelines"との比較結果等==
 	- https://www.jnsa.org/result/digitalidentity/2023/idm1/index.html
