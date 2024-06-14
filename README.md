@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 	- インプレス NextPublishing
 	- https://nextpublishing.jp/book/17098.html
  	- ISBN：9784295602132
+ - 実践パスキー　次世代パスワードレス認証入門
+	- インプレス NextPublishing
+	- https://nextpublishing.jp/book/17799.html
+	- ISBN：9784295602576
 ### 技術同人誌
 - ユーザー認証　概括的に学ぶ、クラウドサービス時代のユーザー認証
 	- https://techbookfest.org/product/nrPaBHixebigViPh8AYQk8
