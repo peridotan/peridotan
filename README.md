@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 	- 書籍「Git for Windows + Re:VIEWで電子書籍を作ろう」の底本
  - パスワードレス認証～Passkeys （パスキー）は我々の救世主なのか～
 	- https://techbookfest.org/product/7R2pGmYpS0Rb0MURNjFXN5
+	- 書籍「実践パスキー　次世代パスワードレス認証入門」の底本
  - 生成AIで絵本を作ろう　ChatGPT Plus/Midjourneyで始めるクリエーター生活
 	- https://techbookfest.org/product/s27ix2qiW1iZvFmZtsGsRh
 
