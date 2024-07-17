@@ -65,6 +65,7 @@ Here are some ideas to get you started:
  - 生成AIで絵本を作ろう　ChatGPT Plus/Midjourneyで始めるクリエーター生活
 	- https://techbookfest.org/product/s27ix2qiW1iZvFmZtsGsRh
  	- https://peridotan.booth.pm/items/5807234
+  	- 書籍「生成AIで絵本を作ろう」の底本
     
 - パスワードレス認証～Passkeys （パスキー）は我々の救世主なのか～
 	- https://techbookfest.org/product/7R2pGmYpS0Rb0MURNjFXN5
