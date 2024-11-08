@@ -66,6 +66,10 @@ Here are some ideas to get you started:
 	- ISBN：9784295601616
 
 ### 技術同人誌
+ - アタックサーフェスを把握しよう～ドメインを"外"から見よう～
+ 	- https://techbookfest.org/product/q0MNzhBYtymRAAcMTZXqcU
+  	- https://peridotan.booth.pm/items/6264122
+
  - 生成AIで絵本を作ろう　ChatGPT Plus/Midjourneyで始めるクリエーター生活
 	- https://techbookfest.org/product/s27ix2qiW1iZvFmZtsGsRh
  	- https://peridotan.booth.pm/items/5807234
