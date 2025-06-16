@@ -120,3 +120,7 @@ Here are some ideas to get you started:
 	- https://cloudsecurityalliance.jp/WG_PUB/IoT_WG/Security_Guidance_for_Early_Adopters_of_the_Internet_of_Things_J_160224.pdf
 - Internet of Things (IoT)インシデントの影響評価に関する考察
 	- https://cloudsecurityalliance.jp/WG_PUB/IoT_WG/IoT_incident_evaluation_V11.pdf
+
+## memo
+- 2023年　パスワードレス認証
+- 2024年　ID管理とSSO、パスキー
