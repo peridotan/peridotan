@@ -122,5 +122,11 @@ Here are some ideas to get you started:
 	- https://cloudsecurityalliance.jp/WG_PUB/IoT_WG/IoT_incident_evaluation_V11.pdf
 
 ## memo
-- 2023年　パスワードレス認証
-- 2024年　ID管理とSSO、パスキー
+- 2023年
+	- パスワードレス認証
+		- 認証の3要素、パスワード認証の課題、認証を強化する方法、パスワードレス認証
+- 2024年
+	- ID管理とSSO
+		- ID管理とは何か、SSOとは何か
+	- パスキー
+ 		- パスキーとは何か、他のパスワードレス認証とは何が違うのか
