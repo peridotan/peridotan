@@ -121,6 +121,14 @@ Here are some ideas to get you started:
 - Internet of Things (IoT)インシデントの影響評価に関する考察
 	- https://cloudsecurityalliance.jp/WG_PUB/IoT_WG/IoT_incident_evaluation_V11.pdf
 
+## Qiita
+- デジタルアイデンティティを学ぼう～第1回～デジタルアイデンティティって何だろう
+	- https://qiita.com/peridotan/items/7de8a59e07188926153d
+ -  デジタルアイデンティティを学ぼう～第2回～MFA（多要素認証）
+	- https://qiita.com/peridotan/items/e30a3cae663b46a50cf2
+ - 老兵は死なず、ただQiitaを書くのみ　～　かつてシステムエンジニアだった私へ贈る10の言葉
+ 	- https://qiita.com/peridotan/items/9df96b6d126a2d82b523
+
 ## memo
 - 2023年
 	- パスワードレス認証
