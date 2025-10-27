@@ -128,6 +128,8 @@ Here are some ideas to get you started:
 	- https://qiita.com/peridotan/items/e30a3cae663b46a50cf2
  - 老兵は死なず、ただQiitaを書くのみ　～　かつてシステムエンジニアだった私へ贈る10の言葉
  	- https://qiita.com/peridotan/items/9df96b6d126a2d82b523
+ - 未来の自分にメモを残そう　～　AlmaLinuxで検証環境を構築する際の設定アレコレ
+	- https://qiita.com/peridotan/items/af82d3207df9b32fab0e
 
 ## memo
 - 2023年
