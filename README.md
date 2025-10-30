@@ -131,6 +131,9 @@ Here are some ideas to get you started:
  - 未来の自分にメモを残そう　～　AlmaLinuxで検証環境を構築する際の設定アレコレ
 	- https://qiita.com/peridotan/items/af82d3207df9b32fab0e
 
+## 保有資格
+- https://www.credly.com/users/tomoaki-saito.a9eb9340/badges#credly
+
 ## memo
 - 2023年
 	- パスワードレス認証
