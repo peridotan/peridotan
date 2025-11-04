@@ -130,6 +130,8 @@ Here are some ideas to get you started:
  	- https://qiita.com/peridotan/items/9df96b6d126a2d82b523
  - 未来の自分にメモを残そう　～　AlmaLinuxで検証環境を構築する際の設定アレコレ
 	- https://qiita.com/peridotan/items/af82d3207df9b32fab0e
+ - NISTがパスワード要件をUpdateしたので、この際だからきちんと覚えよう！
+	- https://qiita.com/peridotan/items/a092c2143f0130642e7c
 
 ## 保有資格
 - https://www.credly.com/users/tomoaki-saito.a9eb9340/badges#credly
