@@ -117,18 +117,20 @@ Here are some ideas to get you started:
 	- https://cloudsecurityalliance.jp/WG_PUB/IoT_WG/IoT_incident_evaluation_V11.pdf
 
 ## Qiita
-- デジタルアイデンティティを学ぼう～第1回～デジタルアイデンティティって何だろう
-	- https://qiita.com/peridotan/items/7de8a59e07188926153d
- -  デジタルアイデンティティを学ぼう～第2回～MFA（多要素認証）
-	- https://qiita.com/peridotan/items/e30a3cae663b46a50cf2
  - 老兵は死なず、ただQiitaを書くのみ　～　かつてシステムエンジニアだった私へ贈る10の言葉
  	- https://qiita.com/peridotan/items/9df96b6d126a2d82b523
+ - 人のふり見て我がふり直せ、自分がまた転職するときは気を付けようと思うnか条
+	- https://qiita.com/peridotan/items/bb19d6e5a8bfe7ec80af
  - 未来の自分にメモを残そう　～　AlmaLinuxで検証環境を構築する際の設定アレコレ
 	- https://qiita.com/peridotan/items/af82d3207df9b32fab0e
  - NISTがパスワード要件をUpdateしたので、この際だからきちんと覚えよう！
 	- https://qiita.com/peridotan/items/a092c2143f0130642e7c
- - 人のふり見て我がふり直せ、自分がまた転職するときは気を付けようと思うnか条
-	- https://qiita.com/peridotan/items/bb19d6e5a8bfe7ec80af
+ - デジタルアイデンティティを学ぼう～第1回～デジタルアイデンティティって何だろう
+	- https://qiita.com/peridotan/items/7de8a59e07188926153d
+ -  デジタルアイデンティティを学ぼう～第2回～MFA（多要素認証）
+	- https://qiita.com/peridotan/items/e30a3cae663b46a50cf2
+ - デジタルアイデンティティを学ぼう～第3回～DID/VCは未来のデジタルアイデンティティ？
+ 	- https://qiita.com/peridotan/items/7b99fcb6a6ba41d43da8	
 
 ## 保有資格
 - https://www.credly.com/users/tomoaki-saito.a9eb9340/badges#credly
