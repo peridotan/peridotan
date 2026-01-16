@@ -68,26 +68,21 @@ Here are some ideas to get you started:
 ### 技術同人誌
  - アタックサーフェスを把握しよう～ドメインを"外"から見よう～
  	- https://techbookfest.org/product/q0MNzhBYtymRAAcMTZXqcU
-  	- https://peridotan.booth.pm/items/6264122
 
  - 生成AIで絵本を作ろう　ChatGPT Plus/Midjourneyで始めるクリエーター生活
 	- https://techbookfest.org/product/s27ix2qiW1iZvFmZtsGsRh
- 	- https://peridotan.booth.pm/items/5807234
   	- 書籍「生成AIで絵本を作ろう」の底本
     
 - パスワードレス認証～Passkeys （パスキー）は我々の救世主なのか～
 	- https://techbookfest.org/product/7R2pGmYpS0Rb0MURNjFXN5
- 	- https://peridotan.booth.pm/items/5269497
 	- 書籍「実践パスキー　次世代パスワードレス認証入門」の底本
    
 - Git for Windows + Re:VIEWで電子書籍を作ろう
 	- https://techbookfest.org/product/tY1jwwmnCZE8EXnFMveF1q
- 	- https://peridotan.booth.pm/items/5269488
 	- 書籍「Git for Windows + Re:VIEWで電子書籍を作ろう」の底本
    
  - ユーザー認証　概括的に学ぶ、クラウドサービス時代のユーザー認証
 	- https://techbookfest.org/product/nrPaBHixebigViPh8AYQk8
- 	- https://peridotan.booth.pm/items/5269423
 	- 書籍「実践入門ユーザー認証　試して学ぶパスワードレス」の底本
 
 ### 絵本
